@@ -1,8 +1,16 @@
-# Hi 👋, I'm Ravi Kumar Kumar
+<p align="center">
+  <img src="[https://media.tenor.com/....gif](https://tenor.com/view/claude-claude-code-claw'd-crab-laptop-gif-14833619646318452398)" width="250" alt="Coding" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&width=500&lines=Android+%26+Full-Stack+Developer;MCA+(AI+%26+IoT)%2C+NIT+Patna;AI+Model+Evaluation" alt="Typing" />
+</p>
+
+# Hi 👋, I'm Ravi Kumar Prabudh
 
 ### Android & Full-Stack Developer | MCA (AI & IoT), NIT Patna
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=racks1401&label=Profile views&color=0e75b6&style=flat" alt="racks1401" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=racks1401&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🔭 I'm currently working on **AI model evaluation, and planning a full-stack MERN project**
 
