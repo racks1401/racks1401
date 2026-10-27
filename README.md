@@ -41,7 +41,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,py,php,html,css,androidstudio,firebase,mysql,sqlite,flask,sklearn,pandas,numpy,git,postman" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,php,html,css,androidstudio,firebase,mysql,sqlite,flask,sklearn,git,postman&perline=14" alt="skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=racks1401&show_icons=true&locale=en&layout=compact" alt="racks1401" /></p>
