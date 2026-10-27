@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.tenor.com/....gif](https://tenor.com/view/claude-claude-code-claw'd-crab-laptop-gif-14833619646318452398)" width="250" alt="Coding" />
+  <img src="https://tenor.com/view/claude-claude-code-claw'd-crab-laptop-gif-14833619646318452398" width="250" alt="Coding" />
 </p>
 
 <p align="center">
