@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/zduaefgRHq4AAAAj/claude-claude-code.gif" width="250" alt="Coding" />
+  <img src="https://media.tenor.com/zduaefgRHq4AAAAj/claude-claude-code.gif" width="250" height="250" alt="Coding" />
 </p>
 
 <p align="center">
