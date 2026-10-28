@@ -46,8 +46,5 @@
 ![](https://streak-stats.demolab.com/?user=racks1401&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=racks1401&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=racks1401&show_icons=true&locale=en&layout=compact" alt="racks1401" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=racks1401&show_icons=true&locale=en" alt="racks1401" /></p>
-
+---
+[![](https://komarev.com/ghpvc/?username=racks1401&icon=0&color=1)](https://visitcount.itsvg.in)
